@@ -1,16 +1,14 @@
-## Hi there 👋
+<h2 align="center">Hi 👋, I'm Fares Ayman</h2>
+<p align="center">
 
-<!--
-**Faresaymann/Faresaymann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--  <img src="https://spotify-pink.vercel.app/api/spotify?background_color=36454F&text_color=CC5500" alt="codeSTACKr Spotify Playing" width="500" align="middle"/>  -->
 
-Here are some ideas to get you started:
+    
+<h4 align="center">Studying Computer Sciecne at <a href="https://ums.asu.edu.eg/">Ain Shams University</a>.<br> Interested in Software Development also a Competitive programmer!</h4>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><h4 align="center">Reach me out through my email at <a href="mailto:faressaymann@gmail.com">faressaymann@gmail.com </a>, and check out my <a href="https://drive.google.com/file/d/14cI7xNLa1wv-b22-S3g7acyL7WZ8ScyA/view?usp=drive_link">Resume</a>.</h4></p>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Faresaymann&show_icons=true&locale=en&layout=compact&show_icons=true&theme=tokyonight" alt="Faresaymann"/>
+</p>
