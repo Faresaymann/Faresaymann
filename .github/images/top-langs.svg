@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <svg width="600" height="160" xmlns="http://www.w3.org/2000/svg">
+    <style>
+      text{fill:#cbd5e1}
+      rect{opacity:0.95}
+      svg{background:#0f172a}
+    </style>
+    
+      <text x="10" y="26" font-size="13" font-family="Segoe UI, Roboto, Arial">JavaScript · 51.2%</text>
+      <rect x="160" y="14" width="320" height="18" rx="6" fill="#7dd3fc" />
+    
+
+      <text x="10" y="54" font-size="13" font-family="Segoe UI, Roboto, Arial">Java · 46.7%</text>
+      <rect x="160" y="42" width="292" height="18" rx="6" fill="#60a5fa" />
+    
+
+      <text x="10" y="82" font-size="13" font-family="Segoe UI, Roboto, Arial">EJS · 1.9%</text>
+      <rect x="160" y="70" width="12" height="18" rx="6" fill="#a78bfa" />
+    
+
+      <text x="10" y="110" font-size="13" font-family="Segoe UI, Roboto, Arial">CSS · 0.1%</text>
+      <rect x="160" y="98" width="1" height="18" rx="6" fill="#f472b6" />
+    
+
+      <text x="10" y="138" font-size="13" font-family="Segoe UI, Roboto, Arial">HTML · 0.1%</text>
+      <rect x="160" y="126" width="1" height="18" rx="6" fill="#f59e0b" />
+    
+  </svg>
