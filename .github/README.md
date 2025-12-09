@@ -9,9 +9,9 @@
 <p align="center"><h4 align="center">Reach me out through my email at <a href="mailto:faressaymann@gmail.com">faressaymann@gmail.com </a>, and check out my <a href="https://drive.google.com/file/d/15ApTcsD7oSNcPMjhbQz_aI5hAdM5Iq81/view?usp=drive_link">Resume</a>.</h4></p>
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Faresaymann&show_icons=true&locale=en&layout=compact&show_icons=true&theme=tokyonight" alt="Faresaymann"/>
-</p>
+</p> -->
 
 
 <picture>
