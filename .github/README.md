@@ -6,12 +6,11 @@
     
 <h4 align="center">Studying Computer Sciecne at <a href="https://ums.asu.edu.eg/">Ain Shams University</a>.<br> Interested in Software Development also a Competitive programmer!</h4>
 
-<p align="center"><h4 align="center">Reach me out through my email at <a href="mailto:faressaymann@gmail.com">faressaymann@gmail.com </a>, and check out my <a href="https://drive.google.com/file/d/1hEfbAgR6R4mBD6zPyC_BXUe989Tkfjht/view?usp=drive_link">Resume</a>.</h4></p>
+<p align="center"><h4 align="center">Reach me out through my email at <a href="mailto:faressaymann@gmail.com">faressaymann@gmail.com </a></p>
+   <!--  , and check out my <a href="https://drive.google.com/file/d/1hEfbAgR6R4mBD6zPyC_BXUe989Tkfjht/view?usp=drive_link">Resume</a>.</h4></p>  -->
 
 
- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Faresaymann&show_icons=true&locale=en&layout=compact&show_icons=true&theme=tokyonight" alt="Faresaymann"/>
-</p> 
+ <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Faresaymann&show_icons=true&locale=en&layout=compact&show_icons=true&theme=tokyonight" alt="Faresaymann"/></p> -->
 
 
 <picture>
