@@ -1,10 +1,27 @@
 # 👋 初めまして, I'm Fares Ayman (ファレス・アイマン)
 
-<div align="center">
-  <h3>📊 Data Analyst @ Valeo | ⚙️ Backend & Systems Architect | 🎓 Ain Shams CS</h3>
-  <p>Building high-throughput data pipelines, enterprise BI dashboards, and domain-driven backend architectures.</p>
+<p align="left">
+  <b>Data Analytics @ Valeo — B.Sc. Computer Science @ Ain Shams University</b>
+</p>
 
-   <a href="https://faresaymann.github.io/">
+<p align="left">
+  <img src="https://img.shields.io/badge/Valeo-Data_Analyst-00B2A9?style=flat&logo=valeo&logoColor=white" alt="Valeo" />
+  <img src="https://img.shields.io/badge/Ain_Shams-CS_Graduate-C0392B?style=flat" alt="Ain Shams" />
+  <img src="https://img.shields.io/badge/Cairo-EG-000000?style=flat" alt="Cairo" />
+</p>
+
+---
+
+### 💼 Experience & Background
+
+* **Valeo** — *Data Analyst, Business Intelligence & Automation* `(Jun 2026 – Present)`
+  * *Building automated ETL pipelines, data integration workflows, & executive BI dashboards.*
+* **Ain Shams University** — *B.Sc. in Computer Science* `(Graduated 2025)`
+
+---
+
+<div align="center">
+  <a href="https://faresaymann.github.io/">
     <img src="https://img.shields.io/badge/🌐_Live_Portfolio-C0392B?style=for-the-badge&logoColor=white" alt="Live Portfolio" />
   </a>
   <a href="https://linkedin.com/in/faress-ayman">
@@ -22,13 +39,11 @@
 
 ---
 
-### 🔭 About Me
+### 🔭 Mission Overview
 
-* 💼 **Data Analyst at Valeo** — Automating ETL workflows for 80K+ catalog records and engineering executive Power BI & Tableau dashboards.
-* 🎓 **Computer Science Graduate** from **Ain Shams University** (Class of 2025).
-* ⚙️ **Backend Architect** — Experienced in Java Spring Boot, Domain-Driven Design (DDD), Clean Architecture, and RESTful APIs.
+* 📊 **Data Engineering & BI** — Automating ETL pipelines, data integration, and transformation workflows for 80K+ catalog records into Power BI & Tableau.
+* ⚙️ **Backend Architect** — Experienced in Java Spring Boot, Domain-Driven Design (DDD), Clean Architecture, and fault-tolerant REST APIs.
 * 🧠 **Competitive Programmer** — Codeforces Pupil (1288 Max) with 250+ problem-solving achievements.
-* 🎓 **Information Technology Institute (ITI)** Software Development Track Alum.
 
 ---
 
@@ -69,9 +84,9 @@
 
 | Mission Archive | Stack | Description |
 | :--- | :--- | :--- |
-| 🏯 [**Developer Portfolio**](https://github.com/Faresaymann/Portfolio) | `HTML5` `Tailwind` `JS` | Anime/Japanese-inspired responsive web portfolio with Formspree contact delivery. |
+| 🏯 [**Developer Portfolio**](https://github.com/Faresaymann/faresaymann.github.io) | `HTML5` `Tailwind` `JS` | Anime/Japanese-inspired responsive web portfolio with Formspree contact delivery. |
 | 📦 [**DDD Order Management**](https://github.com/Faresaymann/ddd-order-management) | `Java` `Spring Boot` `DDD` | Enterprise order processing system built with Domain-Driven Design and 70+ unit tests. |
-| 🛍️ [**E-Commerce Microservice**](https://github.com/Faresaymann/ecommerce-platform) | `Spring Boot` `PostgreSQL` | Secure Spring Boot backend API with JWT Auth, Stripe Payments, and Cloudinary media processing. |
+| 🛍️ [**E-Commerce Microservice**](https://github.com/Faresaymann/ecommerce-platform) | `Spring Boot` `PostgreSQL` | Secure Spring Boot backend API with JWT Auth, Stripe Payments, and Cloudinary processing. |
 | 🎓 [**CourseHub Backend**](https://github.com/Faresaymann/CourseHub) | `Node.js` `Express` `MongoDB` | RESTful API platform with role-based auth for online education portals. |
 
 ---
