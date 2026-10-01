@@ -4,7 +4,7 @@
   <h3>📊 Data Analyst @ Valeo | ⚙️ Backend & Systems Architect | 🎓 Ain Shams CS</h3>
   <p>Building high-throughput data pipelines, enterprise BI dashboards, and domain-driven backend architectures.</p>
 
-  <a href="https://faresaymann.github.io/Portfolio/">
+   <a href="https://faresaymann.github.io/">
     <img src="https://img.shields.io/badge/🌐_Live_Portfolio-C0392B?style=for-the-badge&logoColor=white" alt="Live Portfolio" />
   </a>
   <a href="https://linkedin.com/in/faress-ayman">
